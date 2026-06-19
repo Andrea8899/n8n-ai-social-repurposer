@@ -1,0 +1,7 @@
+# Log di sistema e file temporanei
+.DS_Store
+Thumbs.db
+*.log
+
+# Cartelle di configurazione locali
+.env
