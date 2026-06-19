@@ -75,5 +75,5 @@ Se vuoi usare modelli open-source nel cloud a una velocità pazzesca e costi qua
 
 1. Clona questa repository:
 ```bash
-   git clone [https://github.com/Andrea8899/local-ai-social-content-catalyst.git](https://github.com/Andrea8899/local-ai-social-content-catalyst.git)
-   cd local-ai-social-content-catalyst
+   git clone [https://github.com/Andrea8899/n8n-ai-social-repurposer.git](https://github.com/Andrea8899/n8n-ai-social-repurposer.git)
+   cd n8n-ai-social-repurposer
