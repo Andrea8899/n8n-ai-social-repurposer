@@ -71,6 +71,17 @@ Se vuoi usare modelli open-source nel cloud a una velocità pazzesca e costi qua
 
 ---
 
+### 📝 Come personalizzare l'Input (Usa il tuo testo)
+
+Il flusso contiene attualmente un testo tecnico di esempio (relativo a una libreria Python chiamata "FastQuery") per consentire un test immediato a costo zero. 
+
+Per elaborare i tuoi contenuti, ti basta seguire questi passaggi:
+1. Apri il flusso su n8n e fai doppio clic sul primo nodo di input (il nodo **Code JavaScript** o il nodo iniziale in cui viene definito il testo).
+2. Sostituisci il valore della variabile del testo (es. `testo_da_elaborare`) con l'articolo, la nota o il comunicato che desideri trasformare.
+3. Clicca su **Execute Workflow**. Il sistema pulirà le stringhe, interrogherà il modello locale Gemma e genererà automaticamente il file `.txt` con i tuoi post personalizzati.
+
+---
+
 ## 💾 Come provarlo sul tuo computer
 
 1. Clona questa repository:
