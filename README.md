@@ -1,4 +1,4 @@
-\# Local AI Social Content Catalyst (n8n + Gemma)
+# Local AI Social Content Catalyst (n8n + Gemma)
 
 
 
@@ -10,11 +10,11 @@ Questo flusso automatizzato, creato su \*\*n8n\*\*, prende un testo grezzo (un a
 
 
 
-\---
+---
 
 
 
-\## 💼 Perché questo progetto serve davvero a un'azienda?
+## 💼 Perché questo progetto serve davvero a un'azienda?
 
 
 
@@ -30,11 +30,11 @@ Quando propongo questa soluzione ai clienti, mi concentro su tre vantaggi enormi
 
 
 
-\---
+---
 
 
 
-\## 🛠️ Come è costruita l'infrastruttura
+## 🛠️ Come è costruita l'infrastruttura
 
 
 
@@ -50,11 +50,11 @@ Per non dipendere da servizi cloud costosi, ho strutturato il flusso così:
 
 
 
-\---
+---
 
 
 
-\## 🚀 Come funziona il flusso (Passo dopo passo)
+## 🚀 Come funziona il flusso (Passo dopo passo)
 
 
 
@@ -74,15 +74,15 @@ Per non dipendere da servizi cloud costosi, ho strutturato il flusso così:
 
 
 
-\---
+---
 
 
 
-\## 📦 Come provarlo sul tuo computer
+## 📦 Come provarlo sul tuo computer
 
 
 
-\### Prerequisiti
+### Prerequisiti
 
 \* Docker installato e attivo.
 
@@ -92,7 +92,7 @@ Per non dipendere da servizi cloud costosi, ho strutturato il flusso così:
 
 
 
-\### Configurazione Rapida
+### Configurazione Rapida
 
 1\. Clona questa repository:
 
